@@ -1,2 +1,2 @@
 user = input('Enter your name: ')
-print(f'Hello {user}')
+print(f'Hello {user.capitalize()}')
